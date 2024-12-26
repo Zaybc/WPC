@@ -1,0 +1,19 @@
+{
+  "name": "Warma PFP Collection #92",
+  "description": "A PFP Collection of Warma's Simple Drawing",
+  "image": "https://zaybc.github.io/WPC/images//92.png",
+  "dna": "a3efbab403f6768fb1c630b472234f3a2e46fec1",
+  "edition": 92,
+  "date": 1735240053069,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "sky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "rose"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Warma PFP Collection #44",
+  "description": "A PFP Collection of Warma's Simple Drawing",
+  "image": "https://zaybc.github.io/WPC/images//44.png",
+  "dna": "ddfe089063a3a32c9f17504a737f97808bfa4c87",
+  "edition": 44,
+  "date": 1735240047624,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "yellow0"
+    },
+    {
+      "trait_type": "Body",
+      "value": "quest"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

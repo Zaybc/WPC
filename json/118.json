@@ -1,0 +1,19 @@
+{
+  "name": "Warma PFP Collection #118",
+  "description": "A PFP Collection of Warma's Simple Drawing",
+  "image": "https://zaybc.github.io/WPC/images//118.png",
+  "dna": "50e73c6fb23796a64ee0eee043c6188aa8684506",
+  "edition": 118,
+  "date": 1735240055959,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Body",
+      "value": "apple"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
